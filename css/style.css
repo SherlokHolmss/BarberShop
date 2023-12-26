@@ -1,0 +1,388 @@
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+* {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    color: #555555;
+}
+
+html {
+    background-color: gray;
+}
+
+/* header */
+.nav-list-item-link {
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.nav-list-item-link:hover {
+    color: #FF6C00;
+
+}
+
+.contacts-list-item-link {
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.contacts-list-item-button {
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    border-radius: 30px;
+    width: 160px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid #FF6C00;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* section-hero  */
+.hero-pre-description {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #9DA4BD;
+}
+
+.hero-title {
+    font-family: Raleway;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 85px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.hero-description {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #9DA4BD;
+}
+
+.hero-list-item-button {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #9DA4BD;
+    background-color: transparent;
+}
+
+.hero-list-item-button-second {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.hero-contacts-list-item-link {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.2em;
+    text-align: left;
+    color: #303030;
+}
+
+.hero-contacts-list-item-link-second {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.2em;
+    text-align: left;
+    color: #FF6C00;
+}
+
+/* barbershop  */
+.barbershop-about {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #303030;
+}
+
+.barbershop-title {
+    font-family: Raleway;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #303030;
+}
+
+.barbershop-description {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #555555;
+}
+
+.barbershop-description {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #555555;
+}
+
+.barbershop-button {
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    border-radius: 30px;
+    width: 160px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid #FF6C00;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* section-prises */
+.prises-description {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #9DA4BD;
+}
+
+.prises-title {
+    font-family: Raleway;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.prises-list-item-description {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #9DA4BD;
+}
+
+.prises-list-item-span {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #9DA4BD;
+}
+
+.book-button {
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    border-radius: 30px;
+    width: 160px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid #FF6C00;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* section-school  */
+.school-pre-description {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #303030;
+}
+
+.school-title {
+    font-family: Raleway;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #303030;
+}
+
+.school-description {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #555555;
+}
+
+.school-list-item-description-num {
+    font-family: Open Sans;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    color: #303030;
+}
+
+.school-list-item-description {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #303030;
+}
+
+/* section-masters */
+.masters-description {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #303030;
+}
+
+.masters-title {
+    font-family: Raleway;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #303030;
+}
+
+.masters-list-item-title {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #303030
+}
+
+.masters-list-item-description {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FF6C00;
+}
+
+/* section-beard */
+.beard-description {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #303030;
+}
+
+/* section-book */
+.book-title {
+    font-family: Raleway;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.book-form-input-first {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.book-form-input {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #9DA4BD;
+}
+.book-form-textarea{
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #9DA4BD;
+}
