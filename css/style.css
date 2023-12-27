@@ -377,7 +377,8 @@ html {
     text-align: left;
     color: #9DA4BD;
 }
-.book-form-textarea{
+
+.book-form-textarea {
     font-family: Open Sans;
     font-size: 11px;
     font-weight: 600;
@@ -385,4 +386,71 @@ html {
     letter-spacing: 0.1em;
     text-align: left;
     color: #9DA4BD;
+}
+
+.book-form-button {
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    border-radius: 30px;
+    width: 160px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid #FF6C00;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.book-contacts-list-item-link {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #9DA4BD;
+}
+
+.book-description {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.book-timetable {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #9DA4BD;
+}
+
+/* footer  */
+.footer-description {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.2em;
+    text-align: left;
+}
+
+.footer-contact-list-item-link {
+    font-family: Open Sans;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0.2em;
+    text-align: left;
+    color: #303030;
 }
